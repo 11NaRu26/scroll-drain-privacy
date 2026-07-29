@@ -2,7 +2,7 @@
 title: Scroll Drain — Privacy Policy
 ---
 
-[日本語](../)
+[日本語](../) · [Support](support/)
 
 # Scroll Drain — Privacy Policy
 

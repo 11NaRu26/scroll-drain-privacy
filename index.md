@@ -2,7 +2,7 @@
 title: Scroll Drain プライバシーポリシー
 ---
 
-[English](en/)
+[English](en/) ・ [サポート](support/)
 
 # Scroll Drain プライバシーポリシー
 
