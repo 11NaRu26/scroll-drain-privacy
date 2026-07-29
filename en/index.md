@@ -6,7 +6,7 @@ title: Scroll Drain — Privacy Policy
 
 # Scroll Drain — Privacy Policy
 
-Last updated: July 27, 2026
+Last updated: July 29, 2026
 
 ## Summary
 
@@ -28,11 +28,11 @@ Your selection is stored only as opaque identifiers (tokens) issued by Apple. Be
 
 ### (c) Information you enter
 
-Your current age and your target age. These are used solely to calculate the "estimated age at death" figure shown in the App.
+Your current age and your target age. These are used solely to calculate the "time lost before your target lifespan" figure shown in the App.
 
 ### (d) App state
 
-Your first launch date, whether initial setup is complete, and internal bookkeeping used to detect when the calendar day changes.
+Your first launch date, whether initial setup is complete, internal bookkeeping used to detect when the calendar day changes, whether the in-app purchase has been made, and the date the purchase offer was last shown.
 
 ## 2. Purpose of Use
 
@@ -42,7 +42,9 @@ This information is used solely to display your own usage back to you, within th
 
 All information is stored in an App Group container (`group.com.naru.snsstolentime`) on your device. It is never sent to or stored on any external server or cloud service.
 
-The App has no networking capability.
+The Developer operates no server for this App.
+
+Network communication occurs only when the App communicates with Apple's App Store to process an in-app purchase or to verify its purchase status. That communication is performed by Apple's StoreKit, and none of the information listed in Section 1 is transmitted by it.
 
 ## 4. Disclosure to Third Parties
 
@@ -52,34 +54,46 @@ The Developer does not share, sell, or rent your information to third parties. A
 
 The App uses **no** third-party services such as advertising networks, analytics tools, or crash reporting tools. The App does not track you.
 
-## 6. Notifications
+## 6. In-App Purchases
+
+The App offers a one-time (non-consumable) in-app purchase that unlocks additional Home Screen widget types and sizes. There is no subscription or recurring charge.
+
+Payment and verification of the purchase are handled entirely by Apple's App Store. **The Developer cannot receive or access any payment information, including your name, email address, or card number.**
+
+The only thing the App stores on your device is whether the purchase has been made. The entitlement itself is held by Apple and tied to your Apple ID, so it can be recovered with "Restore Purchases" in the App after reinstalling or switching devices.
+
+For questions about cancelling a purchase or requesting a refund, please contact Apple rather than the Developer.
+
+<https://reportaproblem.apple.com/>
+
+## 7. Notifications
 
 The App may show local notifications when your usage reaches certain durations. Local notifications are generated and displayed entirely on your device and involve no external communication. You can disable notifications at any time in your device Settings.
 
-## 7. Screen Time Authorization
+## 8. Screen Time Authorization
 
 The App requests access to Apple's Family Controls in order to measure usage time. You can revoke this authorization at any time in your device Settings. If you revoke it, automatic usage tracking stops.
 
-## 8. Deleting Your Information
+## 9. Deleting Your Information
 
 Deleting the App from your device removes all stored information from your device.
 
 Because no information is ever stored on the Developer's side, there is no deletion request process to follow.
 
-## 9. Children's Privacy
+## 10. Children's Privacy
 
 The App is intended for people tracking their own social media usage and is not directed to children under 13. As described above, the App does not collect information from any user.
 
-## 10. Changes to This Policy
+## 11. Changes to This Policy
 
 If this policy changes, a revised version will be published on this page. Significant changes will also be communicated through the App's release notes.
 
-## 11. Contact
+## 12. Contact
 
 For questions about this policy or the App, please contact:
 
 11appdevelipernaru26@gmail.com
 
-## 12. Governing Law
+## 13. Governing Law
 
 This policy is governed by and construed in accordance with the laws of Japan.
